@@ -19,4 +19,4 @@ Oficinas de manutenção de aeronaves, aviação comercial ou particular.
 - MySQL
 - Composer
 - PHPUnit
-- Bootstrap (ou Vue.js para o frontend - A ser determinado)
+- HTML, CSS E JS para o frontend
