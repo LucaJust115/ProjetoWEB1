@@ -7,7 +7,7 @@ CREATE TABLE aeronaves (
     modelo VARCHAR(255) NOT NULL,
     fabricante VARCHAR(255) NOT NULL,
     ano_fabricacao YEAR NOT NULL,
-    matricula VARCHAR(50) NOT NULL UNIQUE,
+    matricula VARCHAR(50) NOT NULL UNIQUE
 )
 
 CREATE TABLE ordens_servico (

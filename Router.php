@@ -1,6 +1,6 @@
 <?php
 
-class Router
+class Router //Implementação de um Router para gerenciar requisições da API
 {
     private $routes = [];
 
